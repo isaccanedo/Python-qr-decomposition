@@ -1,0 +1,2 @@
+# Python-qr-decomposition
+:orange: Retorne uma decomposição QR da matriz A usando a reflexão de Householder. A decomposição QR decompõe a matriz A de forma (m, n) em uma matriz ortogonal Q de forma (m, m) e uma matriz triangular superior R de forma (m, n). Observe que a matriz A não precisa ser quadrada. Este método de decomposição de A usa a reflexão de Householder, que é numericamente estável e de complexidade O (n ^ 3).
